@@ -1,0 +1,12 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ConsoleEx.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ConsoleEx.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ConsoleEx.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ConsoleEx.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ConsoleEx.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ClassLibEx.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\bin\Debug\netcoreapp2.0\ClassLibEx.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\obj\Debug\netcoreapp2.0\ConsoleEx.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\obj\Debug\netcoreapp2.0\ConsoleEx.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\obj\Debug\netcoreapp2.0\ConsoleEx.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\obj\Debug\netcoreapp2.0\ConsoleEx.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ConsoleEx\obj\Debug\netcoreapp2.0\ConsoleEx.pdb

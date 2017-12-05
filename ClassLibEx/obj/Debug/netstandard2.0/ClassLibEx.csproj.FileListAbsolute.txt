@@ -1,0 +1,8 @@
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\bin\Debug\netstandard2.0\ClassLibEx.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\bin\Debug\netstandard2.0\ClassLibEx.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\bin\Debug\netstandard2.0\ClassLibEx.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\obj\Debug\netstandard2.0\ClassLibEx.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\obj\Debug\netstandard2.0\ClassLibEx.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\obj\Debug\netstandard2.0\ClassLibEx.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\obj\Debug\netstandard2.0\ClassLibEx.dll
+C:\Users\wj070\Desktop\Programas\Projetos\Lp2\DotNet\ClassLibEx\obj\Debug\netstandard2.0\ClassLibEx.pdb
